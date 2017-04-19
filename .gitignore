@@ -1,4 +1,6 @@
 *.iml
 .idea/
 target/
+.svn/
 
+Будет удалено src/test/
